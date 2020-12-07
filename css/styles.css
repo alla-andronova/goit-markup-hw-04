@@ -206,7 +206,7 @@ img {
 /* =============== HERO ===============*/
 .hero {
   min-height: 600px;
-  width: 1600px;
+  max-width: 1600px;
   margin: 0 auto;
   padding-bottom: 200px;
   padding-top: 200px;
